@@ -1,6 +1,6 @@
 gitgit hardSimon's Stamp Collection
 ---
 
-# About
+# About Simon
 
 Stuff about Simon's Stamps here...
