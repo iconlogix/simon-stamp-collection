@@ -1,4 +1,4 @@
-gitgit hardSimon's Stamp Collection
+Simon's Stamp Collection
 ---
 
 # About
